@@ -1,0 +1,23 @@
+/* .navbar-nav .nav-link:hover {
+    color: gold;
+  } */
+
+  #hmm{
+    /* background-color: black; */
+  }
+  .col-md-4 col-sm-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #myContent{
+    display: flex;
+    justify-content: center;
+  }
+  .vertical-center{
+    display: flex;
+    align-items: center;
+  }
+  .head{
+    text-align: center;
+  }
